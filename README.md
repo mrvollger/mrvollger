@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Mitchell 👋
+
+Check out my website for more info: 
+https://mrvollger.github.io/
+
+
+
+
 
 <!--
 **mrvollger/mrvollger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
