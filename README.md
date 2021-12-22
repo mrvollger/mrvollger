@@ -1,11 +1,9 @@
 ### Hi there, I'm Mitchell 👋
 
-Check out my website for more info: 
+Check out my website for more info:
 https://mrvollger.github.io/
 
-
-
-
+[![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvollger&show_icons=true&theme=dark)](https://mrvollger.github.io/software)
 
 <!--
 **mrvollger/mrvollger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
